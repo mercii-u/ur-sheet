@@ -1,0 +1,18 @@
+
+    UrSheet (ursh)
+
+    This idea comes from a project which Tsoding made some time ago, the idea
+    is to implement a simple spreadsheet engine which is able to do basic
+    arithmetic, it's able to make references to other cells avoiding all
+    errors, for sure... Also must be able to clone cells from above...
+
+    There's a file which contains almost all types and errors the program
+    can produce, it is located at `sheets/tester`, to execute the program
+    go to source and type the following
+
+    $ make
+    $ ./UrSh -s <filename> -d <decimal-precision>
+
+    Juan Diego PM - Sometime in 2024
+    Old Project - The code might look bad
+
